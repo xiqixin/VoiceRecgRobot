@@ -17,7 +17,7 @@
 #define PLAY_FILE "temp_file/play.mp3"
 #define CMD_ETC "command.etc"
 
-
+//图灵机器人
 class InterRobot{
 		private:
 			//你所注册的图灵账号对应的调用url，平台上有
